@@ -1,6 +1,5 @@
-/home/ruslan/try-django-github/bin/
-/home/ruslan/try-django-github/lib/
-/home/ruslan/try-django-github/lib64/
+bin/
+lib/
+lib64/
 db.sqlite3
-./home/ruslan/try-django-github/.idea/
-.env
+.idea/
