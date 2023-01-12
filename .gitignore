@@ -1,4 +1,4 @@
-lib64
-lib
-bin
-db.sqlite3
+/home/ruslan/try-django-github/lib64
+/home/ruslan/try-django-github/lib
+/home/ruslan/try-django-github/bin
+/home/ruslan/try-django-github/db.sqlite3
